@@ -1,3 +1,3 @@
-# Documentation
+# Vanity URl
 
-This Repository is used to build and deploy the documentation of the [Cosmos-SDK](https://github.com/cosmos/cosmos-sdk).
+Cosmos-sdk [Vanity URL](https://gianarb.it/blog/go-mod-vanity-url) for go mods

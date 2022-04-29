@@ -2,37 +2,12 @@
   "domain": "cosmossdk.io",
   "repositories": [
     {
-      "prefix": "math",
+      "prefix": "cosmos-sdk",
       "subs": [
-        "template"
-      ],
-      "url": "https://github.com/cosmos/cosmos-sdk/math"
-    },
-    {
-      "prefix": "api",
-      "subs": [
-        "template"
-      ],
-      "url": "https://github.com/cosmos/cosmos-sdk/api"
-    },
-    {
-      "prefix": "errors",
-      "subs": [
-        "template"
-      ],
-      "url": "https://github.com/cosmos/cosmos-sdk/errors"
-    },
-    {
-      "prefix": "container",
-      "subs": [
-        "template"
-      ],
-      "url": "https://github.com/cosmos/cosmos-sdk/container"
-    },
-    {
-      "prefix": "",
-      "subs": [
-        "template"
+        "math",
+				"api",
+				"container",
+				"errors"
       ],
       "url": "https://github.com/cosmos/cosmos-sdk"
     }

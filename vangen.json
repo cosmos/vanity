@@ -1,15 +1,17 @@
 {
   "domain": "cosmossdk.io",
+	"docsDomain": "pkg.go.dev",
   "repositories": [
     {
-      "prefix": "",
       "subs": [
         "math",
 				"api",
 				"container",
-				"errors"
+				"errors",
+				"orm"
       ],
-      "url": "https://github.com/cosmos/cosmos-sdk"
+      "url": "https://github.com/cosmos/cosmos-sdk",
+			"main":true
     }
   ]
 }

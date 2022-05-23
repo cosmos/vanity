@@ -5,9 +5,10 @@
       "prefix": "",
       "subs": [
         "math",
-				"api",
-				"container",
-				"errors"
+        "api",
+        "container",
+        "errors",
+        "core"
       ],
       "url": "https://github.com/cosmos/cosmos-sdk"
     }

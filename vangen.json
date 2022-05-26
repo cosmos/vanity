@@ -6,7 +6,7 @@
       "subs": [
         "math",
         "api",
-        "container",
+        "depinject",
         "errors",
         "core"
       ],

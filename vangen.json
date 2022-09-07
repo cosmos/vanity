@@ -1,5 +1,7 @@
 {
   "domain": "cosmossdk.io",
+  "docsDomain": "pkg.go.dev",
+  "index": true,
   "repositories": [
     {
       "prefix": "",
@@ -8,9 +10,16 @@
         "api",
         "depinject",
         "errors",
-        "core"
+        "core",
+        "simapp"
       ],
-      "url": "https://github.com/cosmos/cosmos-sdk"
+      "type": "git",
+      "url": "https://github.com/cosmos/cosmos-sdk",
+      "source": {
+        "home": "https://github.com/cosmos/cosmos-sdk",
+        "dir": "https://github.com/cosmos/cosmos-sdk/tree/main{/dir}",
+        "file": "https://github.com/cosmos/cosmos-sdk/blob/main{/dir}/{file}#L{line}"
+      }
     }
   ]
 }

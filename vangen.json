@@ -13,7 +13,8 @@
         "core",
         "simapp",
         "client/v2",
-	"cosmovisor"
+        "tools/cosmovisor",
+        "tools/rosetta"
       ],
       "type": "git",
       "url": "https://github.com/cosmos/cosmos-sdk",

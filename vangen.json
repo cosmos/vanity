@@ -12,7 +12,8 @@
         "errors",
         "core",
         "simapp",
-        "client/v2"
+        "client/v2",
+	"cosmovisor"
       ],
       "type": "git",
       "url": "https://github.com/cosmos/cosmos-sdk",

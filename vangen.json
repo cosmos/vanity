@@ -11,6 +11,7 @@
         "depinject",
         "errors",
         "core",
+        "collections",
         "simapp",
         "client/v2",
         "tools/cosmovisor",

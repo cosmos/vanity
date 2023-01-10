@@ -25,6 +25,19 @@
         "dir": "https://github.com/cosmos/cosmos-sdk/tree/main{/dir}",
         "file": "https://github.com/cosmos/cosmos-sdk/blob/main{/dir}/{file}#L{line}"
       }
+    },
+    {
+      "prefix": "",
+      "subs": [
+        "confix"
+      ],
+      "type": "git",
+      "url": "https://github.com/cosmos/cosmos-sdk",
+      "source": {
+        "home": "https://github.com/cosmos/cosmos-sdk",
+        "dir": "https://github.com/cosmos/cosmos-sdk/tree/main/tools/{/dir}",
+        "file": "https://github.com/cosmos/cosmos-sdk/blob/main/tools/{/dir}/{file}#L{line}"
+      }
     }
   ]
 }

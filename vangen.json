@@ -16,7 +16,8 @@
         "client/v2",
         "tools/cosmovisor",
         "tools/rosetta",
-        "tools/confix"
+        "tools/confix",
+        "x/tx"
       ],
       "type": "git",
       "url": "https://github.com/cosmos/cosmos-sdk",

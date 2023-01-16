@@ -17,6 +17,8 @@
         "tools/cosmovisor",
         "tools/rosetta",
         "tools/confix",
+        "x/circuit",
+        "x/nft",
         "x/tx"
       ],
       "type": "git",

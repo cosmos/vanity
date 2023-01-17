@@ -17,6 +17,7 @@
         "tools/cosmovisor",
         "tools/rosetta",
         "tools/confix",
+        "tools/chdbg",
         "x/circuit",
         "x/nft",
         "x/tx"

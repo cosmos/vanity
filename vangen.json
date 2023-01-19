@@ -20,7 +20,8 @@
         "tools/chdbg",
         "x/circuit",
         "x/nft",
-        "x/tx"
+        "x/tx",
+        "x/feegrant"
       ],
       "type": "git",
       "url": "https://github.com/cosmos/cosmos-sdk",

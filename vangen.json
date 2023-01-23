@@ -21,7 +21,8 @@
         "x/circuit",
         "x/nft",
         "x/tx",
-        "x/feegrant"
+        "x/feegrant",
+        "x/evidence"
       ],
       "type": "git",
       "url": "https://github.com/cosmos/cosmos-sdk",

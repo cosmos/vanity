@@ -25,7 +25,8 @@
         "x/tx",
         "x/feegrant",
         "x/evidence",
-        "x/upgrade"
+        "x/upgrade",
+        "x/crisis"
       ],
       "type": "git",
       "url": "https://github.com/cosmos/cosmos-sdk",

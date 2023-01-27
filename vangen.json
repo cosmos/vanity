@@ -26,7 +26,6 @@
         "x/feegrant",
         "x/evidence",
         "x/upgrade",
-        "x/crisis",
         "x/capability"
       ],
       "type": "git",

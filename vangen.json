@@ -15,6 +15,7 @@
         "simapp",
         "store",
         "client/v2",
+        "log",
         "tools/cosmovisor",
         "tools/rosetta",
         "tools/confix",
@@ -25,8 +26,7 @@
         "x/tx",
         "x/feegrant",
         "x/evidence",
-        "x/upgrade",
-        "x/capability"
+        "x/upgrade"
       ],
       "type": "git",
       "url": "https://github.com/cosmos/cosmos-sdk",

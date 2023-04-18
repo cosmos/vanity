@@ -16,6 +16,7 @@
         "store",
         "client/v2",
         "log",
+        "orm",
         "tools/cosmovisor",
         "tools/rosetta",
         "tools/confix",

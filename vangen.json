@@ -28,7 +28,7 @@
         "x/feegrant",
         "x/evidence",
         "x/upgrade",
-        "x/pool"
+        "x/protocolpool"
       ],
       "type": "git",
       "url": "https://github.com/cosmos/cosmos-sdk",

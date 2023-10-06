@@ -27,6 +27,7 @@
         "x/tx",
         "x/feegrant",
         "x/evidence",
+        "x/group",
         "x/upgrade",
         "x/protocolpool",
         "x/params"

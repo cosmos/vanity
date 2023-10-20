@@ -30,7 +30,8 @@
         "x/group",
         "x/upgrade",
         "x/protocolpool",
-        "x/params"
+        "x/params",
+        "x/mint"
       ],
       "type": "git",
       "url": "https://github.com/cosmos/cosmos-sdk",

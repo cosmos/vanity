@@ -23,6 +23,7 @@
         "tools/hubl",
         "x/accounts",
         "x/circuit",
+        "x/distribution",
         "x/nft",
         "x/tx",
         "x/feegrant",

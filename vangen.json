@@ -33,6 +33,7 @@
         "x/mint",
         "x/nft",
         "x/slashing",
+        "x/staking",
         "x/tx",
         "x/upgrade"
       ],

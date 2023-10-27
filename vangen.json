@@ -23,6 +23,7 @@
         "tools/hubl",
         "x/accounts",
         "x/authz",
+        "x/bank",
         "x/circuit",
         "x/distribution",
         "x/feegrant",

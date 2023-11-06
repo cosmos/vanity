@@ -26,6 +26,7 @@
         "x/authz",
         "x/bank",
         "x/circuit",
+        "x/crisis",
         "x/distribution",
         "x/feegrant",
         "x/evidence",

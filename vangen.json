@@ -17,6 +17,7 @@
         "client/v2",
         "log",
         "orm",
+        "runtime",
         "tools/cosmovisor",
         "tools/rosetta",
         "tools/confix",

@@ -38,7 +38,8 @@
         "x/slashing",
         "x/staking",
         "x/tx",
-        "x/upgrade"
+        "x/upgrade",
+        "x/epochs"
       ],
       "type": "git",
       "url": "https://github.com/cosmos/cosmos-sdk",

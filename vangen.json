@@ -22,7 +22,7 @@
         "tools/confix",
         "tools/hubl",
         "x/accounts",
-        "x/accounts/lockup",
+        "x/accounts/defaults/lockup",
         "x/auth",
         "x/authz",
         "x/bank",

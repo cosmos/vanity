@@ -17,7 +17,7 @@
         "client/v2",
         "log",
         "orm",
-        "systemtests",
+        "tests/systemtests",
         "tools/cosmovisor",
         "tools/rosetta",
         "tools/confix",

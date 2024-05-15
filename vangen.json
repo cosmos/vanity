@@ -25,6 +25,7 @@
         "server/v2",
         "server/v2/appmanager",
         "server/v2/stf",
+        "store/v2",
         "runtime/v2",
         "x/accounts",
         "x/accounts/defaults/lockup",

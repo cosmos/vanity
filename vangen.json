@@ -11,6 +11,7 @@
         "depinject",
         "errors",
         "core",
+        "core/testing",
         "collections",
         "simapp",
         "store",

@@ -10,6 +10,7 @@
         "api",
         "depinject",
         "errors",
+        "errors/v2",
         "core",
         "core/testing",
         "collections",

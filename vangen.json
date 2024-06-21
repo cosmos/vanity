@@ -26,6 +26,7 @@
         "tools/hubl",
         "server/v2",
         "server/v2/appmanager",
+        "server/v2/cometbft",
         "server/v2/stf",
         "store/v2",
         "runtime/v2",

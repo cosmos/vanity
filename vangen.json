@@ -33,6 +33,7 @@
         "runtime/v2",
         "x/accounts",
         "x/accounts/defaults/lockup",
+        "x/accounts/defaults/multisig",
         "x/auth",
         "x/authz",
         "x/bank",

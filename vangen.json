@@ -41,6 +41,7 @@
         "x/consensus",
         "x/distribution",
         "x/feegrant",
+        "x/feemarket",
         "x/evidence",
         "x/gov",
         "x/group",

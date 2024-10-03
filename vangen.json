@@ -17,6 +17,7 @@
         "simapp",
         "store",
         "client/v2",
+        "indexer/postgres",
         "log",
         "orm",
         "tests/systemtests",

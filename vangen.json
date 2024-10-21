@@ -14,6 +14,7 @@
         "core",
         "core/testing",
         "collections",
+        "collections/protocodec",
         "simapp",
         "store",
         "client/v2",

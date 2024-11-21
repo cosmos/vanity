@@ -21,7 +21,7 @@
         "indexer/postgres",
         "log",
         "orm",
-        "tests/systemtests",
+        "systemtests",
         "tools/cosmovisor",
         "tools/rosetta",
         "tools/confix",

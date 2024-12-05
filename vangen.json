@@ -26,6 +26,7 @@
         "tools/rosetta",
         "tools/confix",
         "tools/hubl",
+        "tools/benchmark",
         "schema",
         "server/v2",
         "server/v2/appmanager",

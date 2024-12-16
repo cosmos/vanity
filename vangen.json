@@ -28,6 +28,7 @@
         "tools/hubl",
         "tools/benchmark",
         "schema",
+        "schema/testing",
         "server/v2",
         "server/v2/appmanager",
         "server/v2/cometbft",

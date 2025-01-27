@@ -14,7 +14,6 @@
         "core",
         "core/testing",
         "collections",
-        "collections/protocodec",
         "crypto",
         "simapp",
         "store",

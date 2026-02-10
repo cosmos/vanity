@@ -20,6 +20,7 @@
         "client/v2",
         "indexer/postgres",
         "log",
+        "log/v2",
         "orm",
         "systemtests",
         "tools/cosmovisor",
